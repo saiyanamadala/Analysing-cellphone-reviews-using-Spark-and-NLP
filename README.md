@@ -26,6 +26,3 @@ Scalable data processing with Spark.
 Sentiment analysis to understand customer opinions.
 Creation of interactive visualizations for easy interpretation of insights.
 Identification of popular cellphone specifications based on customer reviews.
-
-hello
-hi
