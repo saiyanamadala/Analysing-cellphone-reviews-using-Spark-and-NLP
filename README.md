@@ -17,9 +17,9 @@ Derived actionable insights from the analysis to help stakeholders understand co
 Provided recommendations based on the findings to improve product offerings and marketing strategies in the cellphone industry.
 
 Technologies Used:
-Apache Spark
-Natural Language Processing (NLP)
-Tableau
+Apache Spark\n
+Natural Language Processing (NLP)\n
+Tableau\n
 
 Key Features:
 Scalable data processing with Spark.
