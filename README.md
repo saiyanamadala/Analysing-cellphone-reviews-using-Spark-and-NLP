@@ -1,4 +1,4 @@
-A comprehensive analysis of over 1 million cellphone reviews using Apache Spark and Natural Language Processing (NLP) techniques. The primary objective was to gain insights into customer preferences and considerations when purchasing a cellphone. Key aspects of the project include:
+A comprehensive analysis of over 500K cellphone reviews using Apache Spark and Natural Language Processing (NLP) techniques. The primary objective was to gain insights into customer preferences and considerations when purchasing a cellphone. Key aspects of the project include:
 
 Data Processing with Spark:
 Leveraged Apache Spark for efficient data processing and transformation.
